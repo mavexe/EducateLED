@@ -1,5 +1,5 @@
 # LED Control Repository
-
+This repository contains examples of different methods to control LEDs using various microcontrollers and programming languages. The aim of this repository is to provide a comprehensive guide on how to control LEDs with different methods, including PWM, Interrupt-driven, and Direct Control.
 
 ## Table of Contents
 - [Introduction](#introduction)
