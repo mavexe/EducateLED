@@ -27,7 +27,7 @@ Each directory contains a README file with detailed instructions on how to use t
 To get started with this repository, simply clone it to your local machine:
 
 ```bash
-git clone https://github.com/your-username/led-control-repository.git
+git clone https://github.com/mavexe/led-control-repository.git
 ```
 
 ![]()
